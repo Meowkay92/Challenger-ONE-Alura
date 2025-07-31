@@ -56,7 +56,6 @@ function copyText() {
 
 output.style.display = 'none';
 
-
 criptografarButton.onclick = criptografar;
 descriptografarButton.onclick = descriptografar;
 copiarButton.onclick = copyText;
